@@ -1,0 +1,40 @@
+.item {
+  background: #ffffff;
+  border: 2px solid green;
+  font-size: 30px;
+  width: auto;
+  margin: auto;
+  margin-top: 5px;
+  border-radius: 10px;
+  text-align: left;
+  padding: 5px 0px 5px 20px;
+}
+
+.green {
+  background-color: rgba(24, 231, 1, 0.614);
+  font-size: 30px;
+  border-radius: 25px;
+  padding: 0px 10px 0px 10px;
+  border-width: 4px;
+}
+.red {
+  background-color: rgba(243, 9, 9, 0.966);
+  font-size: 30px;
+  border-radius: 25px;
+  padding: 0px 10px 0px 10px;
+  border-width: 4px;
+}
+.delBtn {
+  background-color: rgba(243, 9, 9, 0.966);
+  font-size: 30px;
+  border-radius: 25px;
+  padding: 0px 10px 0px 10px;
+  border-width: 4px;
+}
+.ptag {
+  width: auto;
+  height: auto;
+  /* border: 1px solid teal; */
+  margin: 5px 0px 10px 0px;
+  padding: 5px;
+}
